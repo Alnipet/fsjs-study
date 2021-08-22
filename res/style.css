@@ -1,0 +1,155 @@
+* {
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+    font-weight: 500;
+}
+
+ul {
+    margin: 0;
+}
+
+body {
+    font-family: Ubuntu, serif;
+}
+
+footer {
+    background-color: #e0e0e0;
+    height: 50px;
+    margin-top: 150px;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 30px auto;
+    padding: 0 15px;
+}
+
+.header-upper {
+    height: 50px;
+    margin: 0 0 25px;
+
+    background-color: #e0e0e0;
+
+}
+.header-inner {
+    display: flex;
+    align-items: start;
+}
+
+.header-photo-block {
+    width: 150px;
+    height: 150px;
+    padding-top: 8px;
+}
+
+.header-photo {
+    width: 150px;
+    height: 150px;
+}
+
+.resume-name {
+    margin: 0;
+}
+
+.born-info {
+    margin-top: 0;
+}
+
+.priority-contact {
+    color: gray;
+}
+
+.short-info {
+    margin-left: 30px;
+}
+
+.section-title {
+    margin-bottom: 0;
+    border-bottom: 3px solid grey;
+
+    color: grey;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.main-text {
+    margin: 10px 0;
+}
+
+.section-inner {
+    display: flex;
+}
+
+.date-periods, .group-skills, .about {
+    width: 20%;
+    font-size: 14px;
+    color: gray;
+    padding: 10px 25px 0 0;
+}
+
+.institution, .skills, .myself {
+    width: 80%;
+}
+
+.experience-place-contacts {
+    display: block;
+    color: grey;
+}
+
+.experience-position-name {
+    font-weight: normal;
+}
+
+.education-type {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.lang {
+    margin-top: 10px;
+}
+
+.level-lang {
+    color: gray;
+}
+.skill {
+    margin-top: 10px;
+}
+
+.skill-list {
+    padding: 0;
+}
+
+.skill-unit {
+    display: inline-block;
+    padding: 0 5px;
+    background-color: #e0e0e0;
+
+    list-style: none;
+}
+
+.skill-unit:nth-child(1n+2) {
+    margin-left: 5px;
+}
+
+.sections-footer {
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.social-networks {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icon {
+    width: 25px;
+    height: 25px;
+
+}
