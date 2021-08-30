@@ -8,20 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Alnipet/fsjs-study.git"
-  },
-  "keywords": [
-    ""
-  ],
-  "author": "Alnipet",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Alnipet/fsjs-study/issues"
-  },
-  "homepage": "https://github.com/Alnipet/fsjs-study#readme",
-  "devDependencies": {
-    "git-scripts": "^0.4.3",
-    "surge": "^0.23.0"
+    "url": "https://github.com/Alnipet/fsjs-study/tree/master/html-diploma"
   },
   "git": {
     "scripts": {
