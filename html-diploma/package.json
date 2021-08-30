@@ -1,0 +1,31 @@
+{
+  "name": "html-diploma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alnipet/fsjs-study.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Alnipet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alnipet/fsjs-study/issues"
+  },
+  "homepage": "https://github.com/Alnipet/fsjs-study#readme",
+  "devDependencies": {
+    "git-scripts": "^0.4.3",
+    "surge": "^0.23.0"
+  },
+  "git": {
+    "scripts": {
+      "pre-push": "surge --project ./ --domain html-diploma.surge.sh"
+    }
+  }
+}
