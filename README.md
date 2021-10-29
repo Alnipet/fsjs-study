@@ -10,4 +10,4 @@
 ***HTML + CSS + JS + React + Node.js***
 
 
-[Резюме](/res/index.html)
+**[Моё Резюме](/res/index.html)**
