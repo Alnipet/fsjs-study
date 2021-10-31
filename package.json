@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/Alnipet/fsjs-study/issues"
   },
-  "homepage": "https://github.com/Alnipet/fsjs-study#readme",
+  "homepage": "https://github.com/Alnipet/fsjs-study/blob/master/res/index.html",
   "devDependencies": {
     "git-scripts": "^0.4.3",
     "surge": "^0.23.0"
