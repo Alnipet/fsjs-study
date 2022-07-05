@@ -8,5 +8,9 @@ A repository for creative experiments in the learning process with fullstack-dev
 
 **HTML + CSS + JS + React + Node.js**
 
-## Подразделы:
+
+## Учебные задания, задачи
+### Подразделы:
 1. [Основы Javascript](./bjs-2-homeworks/README.md)
+
+2. [Базовый JavaScript в Браузере](./bhj-homeworks/README.md)

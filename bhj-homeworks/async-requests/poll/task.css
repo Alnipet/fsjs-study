@@ -1,0 +1,63 @@
+body {
+  font-family: Arial;
+}
+
+.card {
+  width: 625px;
+}
+
+.poll__title {
+  margin-bottom: 20px;
+}
+
+.popup-wrapper {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.popup-wrapper_hidden {
+  display: none;
+}
+
+.popup-wrapper::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+
+  background-color: #000000;
+  opacity: 0.5;
+}
+
+
+.popup {
+  width: 500px;
+  padding: 0 25px 0 25px;
+
+  display: flex;
+  flex-direction: column;
+
+  border-radius: 2px;
+  background-color: #fff ;
+
+  z-index: 2;
+}
+
+.popup h2 {
+  padding-bottom: 15px;
+  border-bottom: gray 1px solid;
+}
+
+.close-popup {
+  width: 150px;
+  align-self: end;
+}
