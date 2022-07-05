@@ -4,6 +4,9 @@
 ![GitHub language](https://img.shields.io/github/languages/count/Alnipet/fsjs-study)
 ***
 
-## A repository for creative experiments in the learning process with fullstack-developer JS. Репозиторий для творческих эксперементов в процессе обучения на fullstack-developer'а JS
+A repository for creative experiments in the learning process with fullstack-developer JS. Репозиторий для творческих эксперементов в процессе обучения на fullstack-developer'а JS
 
 **HTML + CSS + JS + React + Node.js**
+
+## Подразделы:
+1. [Основы Javascript](./bjs-2-homeworks/README.md)
